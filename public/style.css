@@ -1,0 +1,43 @@
+body {
+   background-color: #162189 !important;
+}
+
+
+.justify-content-center{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.btn {
+    white-space: normal !important;
+}
+.btn-group {
+    padding: 5px;
+    height: 100px;
+}
+
+button {
+    width: 100%;
+
+}
+
+.quiz{
+    text-align: center;
+    color: white;
+    width: 100%;
+    border-radius: 25px;
+    margin-top: 100px;
+    padding: 10px; 
+    min-height: 500px;
+    background: rgb(0, 0, 0, 0.6);
+
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    border-radius: 2.0em !important; 
+}
+
+.restart-btn{
+    margin-top: 50px;
+    width: 30%;
+}
